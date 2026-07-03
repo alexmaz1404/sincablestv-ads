@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 1,
   "latestVersionName": "1.0.0",
-  "apkUrl": "https://tuservidor.com/sincablestv-1.0.0.apk",
+  "apkUrl": "sha256:6e6d02d6413ffbeea2ad5f4e1929f18ce467b63703e46aa89038b4cec110cb78",
   "changelog": "- Primera versión con soporte para Android TV\n- Panel de ajustes del reproductor (audio, subtítulos, velocidad)"
 }
