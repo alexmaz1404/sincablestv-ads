@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 7,
-  "latestVersionName": "1.6",
-  "apkUrl": "https://github.com/alexmaz1404/sincablestv-ads/releases/download/v1.6/app-debug.apk",
+  "latestVersionCode": 8,
+  "latestVersionName": "1.7",
+  "apkUrl": "https://github.com/alexmaz1404/sincablestv-ads/releases/download/v1.7/app-debug.apk",
   "changelog": "Mejoras exclusivas para TV:\n- Cambio de canal con teclas dedicadas del control remoto\n- Navegación con D-pad corregida en pantalla completa\n- Play/pausa con la tecla OK/Enter del control\n- Barra de progreso: izquierda/derecha adelanta o retrocede 10s\n- Arriba/abajo en la barra de progreso navega, ya no cambia el video\n- Al entrar a una película, el foco arranca listo en \"Reproducir\"\n- Barras de brillo/volumen ocultas (se manejan desde el TV)\n- Indicador de selección mucho más visible (borde grueso)\n- Se quitó el teclado que aparecía solo en TV en Vivo\n- Corregido: el foco ya no salta solo durante la reproducción"
 }
