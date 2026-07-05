@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0.0",
-  "apkUrl": "https://github.com/alexmaz1404/sincablestv-ads/releases/download/v1.0.0/SincablesTV.1.0.apk",
-  "changelog": "- Primera versión con soporte para Android TV\n- Panel de ajustes del reproductor (audio, subtítulos, velocidad)"
+  "latestVersionCode": 3,
+  "latestVersionName": "1.2",
+  "apkUrl": "https://github.com/alexmaz1404/sincablestv-ads/releases/download/v1.2/app-debug.apk",
+  "changelog": "- Nuevo dashboard de inicio para TV\n- Guía de programación (EPG) real\n- Automatización de actualizaciones configurable\n- Información de cuenta\n- Corrección de crashes y audio en segundo plano\n- Reducción de peso del APK"
 }
