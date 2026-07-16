@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 21,
-  "latestVersionName": "1.20",
- "apkUrl": "https://github.com/alexmaz1404/sincablestv-ads/releases/download/v1.20/app-debug.apk",
+  "latestVersionCode": 22,
+  "latestVersionName": "1.21",
+ "apkUrl": "https://github.com/alexmaz1404/sincablestv-ads/releases/download/v1.21/app-debug.apk",
   "changelog": "Mejoras exclusivas para TV:\n- Navegación arreglada en el panel de audio/subtítulos\n- Play/pausa con OK/Enter del control corregido\n- Corregido bloqueo al adelantar/retroceder en películas y series\n- Reducción de peso del APK (solo arquitecturas ARM)"
 }
